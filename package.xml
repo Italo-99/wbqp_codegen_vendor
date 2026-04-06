@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>wbqp_codegen_vendor</name>
+  <version>0.0.1</version>
+  <description>Vendor package wrapping MATLAB codegen C/C++ for WBQP</description>
+  <maintainer email="italo.almirante@unimore.it">Italo Almirante</maintainer>
+  <license>MIT</license>
+  <buildtool_depend>ament_cmake</buildtool_depend>
+  <export/>
+</package>
